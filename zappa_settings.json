@@ -11,6 +11,6 @@
         "timeout_seconds": 300,
         "memory_size": 256,
         "use_precompiled_packages": true
-        "s3_bucket": "zappa-django-test123"
+        "s3_bucket": "zappa-django-test123456"
     }
 }
