@@ -1,6 +1,6 @@
-# Just a Zappa + Flask test
+# Just a Zappa + Django test
 
-This will deploy a simple Flask app in AWS Lambda + API Gateway.
+This will deploy a simple Django app in AWS Lambda + API Gateway.
 
 ## Setup
     # configure your AWS keys
