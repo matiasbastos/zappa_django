@@ -5,11 +5,12 @@
         "log_level": "DEBUG",
         "aws_region": "us-west-2",
         "django_settings": "django_app.settings",
+        "app_function": "django_app.settings",
         "http_methods": ["GET"],
         "parameter_depth": 1,
         "timeout_seconds": 300,
-        "memory_size": 128,
+        "memory_size": 256,
         "use_precompiled_packages": true
-        "s3_bucket": "zappa-matias-test2"
+        "s3_bucket": "zappa-django-test123"
     }
 }
